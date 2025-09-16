@@ -3,3 +3,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=Pedrinho2018&theme=radical)
 
 ![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrinho2018&show_icons=true&theme=radical)
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-freitas-silva-b0ba731b7/)  
