@@ -1,171 +1,389 @@
-[README (1).md](https://github.com/user-attachments/files/28080125/README.1.md)
 <div align="center">
 
-<h1>Pedro Henrique</h1>
+# 👋 Olá, eu sou Pedro Henrique
 
-<p>
-  <strong>TI · Redes · Cibersegurança · Automação · Cloud Security · DevSecOps</strong>
-</p>
+### Infraestrutura • Redes • Cibersegurança • Automação • Windows Server • Cloud • DevSecOps
 
-<p>
-  <a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva-b0ba731b7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.nortemtsistemas.com.br/">
-    <img src="https://img.shields.io/badge/NorteMT_Sistemas-Site-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Pedrinho2018?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositórios-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=950&lines=Infraestrutura+e+Redes+Corporativas;Windows+Server+e+Active+Directory;Ciberseguran%C3%A7a+e+Monitoramento;Python+e+PowerShell+para+Automa%C3%A7%C3%A3o;Cloud+Security+e+DevSecOps;Transformando+problemas+de+TI+em+solu%C3%A7%C3%B5es+pr%C3%A1ticas" alt="Typing SVG" />
 
-<sub>📍 Sinop, MT — Brasil · Disponível para trabalho remoto</sub>
+<br />
+
+<a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva-b0ba731b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/Pedrinho2018">
+  <img src="https://img.shields.io/badge/GitHub-Pedrinho2018-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://www.nortemtsistemas.com.br/">
+  <img src="https://img.shields.io/badge/NorteMT%20Sistemas-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white" alt="NorteMT Sistemas" />
+</a>
+
+<br />
+
+📍 Sinop, Mato Grosso — Brasil
 
 </div>
 
 ---
 
-## Sobre mim
+## 🚀 Sobre mim
 
-Profissional de TI com **+3 anos de experiência real** em infraestrutura corporativa — do suporte e diagnóstico de redes até automação com Python e PowerShell.
+Sou profissional de **Tecnologia da Informação**, atuando principalmente com **infraestrutura corporativa, redes, servidores Windows, Active Directory, segurança, monitoramento e automação**.
 
-Hoje atuo como Técnico de TI na **GM Contadores Associados** e sou fundador da **[NorteMT Sistemas](https://www.nortemtsistemas.com.br/)**, onde desenvolvo sistemas sob medida, automações e soluções em cloud para empresas.
+Atualmente trabalho com ambientes corporativos envolvendo servidores, virtualização, redes, firewall, políticas de domínio, monitoramento e suporte à infraestrutura.
 
-Cursando **Bacharelado em Sistemas de Informação** na UNEMAT e construindo uma base sólida para atuar em **Cloud Security e DevSecOps**.
+Também utilizo **Python e PowerShell** para automatizar atividades operacionais, reduzir tarefas manuais e criar ferramentas para problemas reais do ambiente de TI.
 
-> *Sistema bom não é só sistema que funciona — precisa ser seguro, documentado e fácil de manter.*
+Curso **Sistemas de Informação na UNEMAT** e direciono minha evolução profissional para:
 
----
+- 🔐 Cloud Security
+- 🛡️ Cibersegurança
+- ⚙️ DevSecOps
+- ☁️ Microsoft Azure
+- 🌐 Redes
+- 🤖 Automação de infraestrutura
+- 📊 Monitoramento e observabilidade
 
-## Stack
-
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-### Backend & APIs
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-
-### Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-### Cloud, DevOps & Infra
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white)
-
-### Segurança & Monitoramento
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet_NSE-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=flat-square&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-
-### Banco de Dados
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+> **Meu foco não é apenas fazer a infraestrutura funcionar — é torná-la mais segura, automatizada, monitorada e documentada.**
 
 ---
 
-## Projetos
+## 🧠 Atualmente estudando
 
-### 🏢 [NorteMT Sistemas](https://www.nortemtsistemas.com.br/)
-Empresa focada em **sistemas sob medida, automação de processos, agentes de IA e cloud** para pequenas e médias empresas — onde existe processo manual, retrabalho ou falta de integração.
+<div align="center">
 
-`Next.js` `Node.js` `Automação` `IA` `Cloud` `Segurança`
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Security](https://img.shields.io/badge/Cloud%20Security-0078D4?style=for-the-badge&logo=microsoftsecurity&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
+</div>
 
-### 📄 Contrato Fácil
-Sistema para **geração de contratos em PDF** sem armazenamento de dados sensíveis. Consulta externo, preenche template e gera o documento — privacidade por padrão.
-
-`NestJS` `PostgreSQL` `PDF` `Segurança`
-
----
-
-### 🔔 CertAlert
-Controle de **certificados digitais** com alertas automáticos de vencimento por WhatsApp. Pensado para contabilidades e empresas que perdem prazos.
-
-`Python` `FastAPI` `PostgreSQL` `WhatsApp API` `Docker`
-
----
-
-### 📊 [Crypto Monitor](https://github.com/Pedrinho2018?tab=repositories)
-Monitoramento de criptomoedas com coleta de preços, cálculo de RSI/SMA/MACD, geração de gráficos e alertas automáticos por variação.
-
-`Python` `Pandas` `Matplotlib` `APIs REST` `Automação`
+- Microsoft Azure
+- Fundamentos para AZ-900
+- Administração Azure
+- Cloud Security
+- DevSecOps
+- Terraform e Infrastructure as Code
+- Docker e containers
+- Redes e fundamentos de CCNA
+- Segurança da informação
+- Monitoramento de infraestrutura
+- Automação com Python e PowerShell
 
 ---
 
-### 📦 Estoque Fácil
-Sistema de controle de estoque e vendas para pequenos negócios — cadastro de produtos, entradas, saídas e relatórios simples.
+## 🛠️ Stack técnica
 
-`Python` `FastAPI` `PostgreSQL` `Docker`
+### 🖥️ Infraestrutura e servidores
+
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Hyper-V](https://img.shields.io/badge/Hyper--V-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+
+- Windows Server
+- Active Directory
+- Group Policy — GPO
+- DNS
+- DHCP
+- File Server
+- Hyper-V
+- Administração de usuários e computadores
+- Troubleshooting de ambientes corporativos
+
+### 🌐 Redes
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+- TCP/IP
+- VLAN
+- DNS
+- DHCP
+- NAT
+- Firewall
+- Switching
+- Troubleshooting de rede
+- Análise de tráfego
+- Redes corporativas
+- FortiGate
+
+### 🛡️ Segurança e monitoramento
+
+![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+
+- Monitoramento de servidores
+- Monitoramento de infraestrutura
+- Zabbix
+- Grafana
+- FortiGate
+- Hardening
+- Controle de acesso
+- Políticas de segurança
+- Análise de eventos
+- Troubleshooting
+- Gestão de ameaças
+- Segurança de endpoints
+
+### ⚙️ DevOps, automação e IaC
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+- Docker
+- Docker Compose
+- Git e GitHub
+- Terraform
+- Infrastructure as Code
+- Automação de infraestrutura
+- Conceitos de CI/CD
+- DevOps
+- DevSecOps
+
+### 💻 Automação e desenvolvimento
+
+![Python](https://img.shields.io/badge/Python%203.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+Utilizo desenvolvimento principalmente para **resolver e automatizar problemas reais de TI**.
+
+- Scripts administrativos
+- Automação de tarefas
+- Processamento de arquivos
+- Integração com APIs
+- Ferramentas internas
+- APIs REST
+- ETL
+- Aplicações para infraestrutura
+- Utilitários corporativos
+
+### 🗄️ Bancos de dados
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ Cloud
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+
+Meu foco de evolução em cloud está principalmente em:
+
+- Azure
+- Administração de recursos
+- Redes em cloud
+- Identidade e acesso
+- Segurança em cloud
+- Infrastructure as Code
+- Automação
+- DevSecOps
 
 ---
 
-### 🗂️ XML Analyzer
-Processamento de grandes volumes de **XMLs fiscais** (NF-e, NFC-e, NFCom) para extração e organização de dados contábeis.
+## 📌 Projetos em destaque
 
-`Python` `XML/ETL` `Banco de Dados` `Relatórios`
+### 🎫 [NorteDesk](https://github.com/Pedrinho2018/nortedesk)
+
+Sistema de chamados de TI desenvolvido em **Python**, com interface web utilizando Streamlit.
+
+**Funcionalidades:** abertura de chamados, controle de prioridade, categorias, alteração de status, persistência de dados e interfaces web/terminal.
+
+`Python` `Streamlit` `Automação` `Help Desk`
+
+---
+
+### 📂 [XML Loteador](https://github.com/Pedrinho2018/xml-loteador)
+
+Aplicação desktop criada para processar grandes volumes de arquivos XML, distribuir arquivos automaticamente em lotes, acompanhar progresso e registrar logs.
+
+`Python 3.13` `Tkinter` `Threading` `CSV` `Automação`
+
+---
+
+### 🤖 [Laboratório de Automação Python](https://github.com/Pedrinho2018/laboratorio-automacao-python)
+
+Laboratório de scripts e mini-projetos utilizando **Python aplicado à automação**.
+
+Foco em automatizar tarefas repetitivas, trabalhar com arquivos, regex, Excel, PDF, web e APIs.
+
+`Python 3.13` `Automação` `Scripts`
 
 ---
 
 ### 🏗️ [Terraform Lab](https://github.com/Pedrinho2018/terraform-lab)
-Laboratório de IaC — provisionamento, módulos, `plan`, `apply`, `destroy`. Documentado passo a passo.
 
-`Terraform` `HCL` `Cloud` `IaC`
+Laboratório para estudo de **Infrastructure as Code com Terraform**.
+
+`Terraform` `HCL` `IaC` `Cloud`
 
 ---
 
-## Foco atual
+### ⚙️ [Formação DevOps](https://github.com/Pedrinho2018/Formacao_Devops)
+
+Repositório dedicado à evolução em **DevOps**, com documentação e estudos progressivos sobre cultura, automação e práticas modernas de infraestrutura.
+
+`DevOps` `CI/CD` `Docker` `IaC` `Observabilidade`
+
+---
+
+### 🛡️ MSP / MSSP — NOC + Security
+
+Projeto em desenvolvimento voltado à criação de uma operação de serviços gerenciados de infraestrutura e segurança.
 
 ```text
-✅ Base sólida: TI corporativa · Redes · Suporte · Infra
-🔄 Em evolução: Cloud Security · DevSecOps · Backend · Automação avançada
-🎯 Próximo: AZ-900 · SC-900 · AWS SAA · Pipeline CI/CD · Portfólio completo
+NOC
+├── Monitoramento
+├── Disponibilidade
+├── Servidores
+├── Redes
+└── Observabilidade
+
+Security Monitoring
+├── Eventos de segurança
+├── Detecção
+├── Alertas
+├── Logs
+└── Resposta operacional
+```
+
+Objetivo: unir **infraestrutura + monitoramento + segurança + automação** em uma operação escalável.
+
+---
+
+## 🧩 Meu mapa técnico
+
+```text
+Infraestrutura → Windows Server, AD, GPO, DNS, DHCP e Hyper-V
+Redes          → TCP/IP, VLAN, Firewall, Switching e troubleshooting
+Segurança      → FortiGate, hardening, monitoramento e gestão de ameaças
+Monitoramento  → Zabbix, Grafana, disponibilidade e alertas
+Automação      → Python, PowerShell e Bash
+DevOps         → Git, Docker, CI/CD e observabilidade
+IaC            → Terraform e automação de infraestrutura
+Cloud          → Azure, AWS, identidade, redes e segurança
+DevSecOps      → Segurança integrada à infraestrutura e automação
 ```
 
 ---
 
-## Certificações
+## 🎓 Certificações e formações
 
-| Certificação | Instituição |
-|---|---|
-| Introdução à Cibersegurança | Cisco |
-| Fundamentos de Redes | Cisco |
-| NSE 1 Network Security Associate | Fortinet |
-| Machine Learning · Introdução à GenAI | AWS |
-| Docker · Zabbix · Grafana | Fundamentos |
-| Git & GitHub · Python | Rocketseat |
-| SQL/MySQL · SCRUM | DIO |
+- 🛡️ **Gestão de Ameaças Cibernéticas** — Cisco Networking Academy
+- 🔐 **Introdução à Cibersegurança** — Cisco Networking Academy
+- 🌐 **Fundamentos de Redes** — Cisco
+- 🔥 **NSE 1 Network Security Associate** — Fortinet
+- ☁️ Estudos em Microsoft Azure
+- 🐳 Docker
+- 🐍 Python
+- 📊 Zabbix e Grafana
+- 🔧 Git e GitHub
 
 ---
 
+## 🎯 Foco atual
+
+```text
+🛡️ Cibersegurança
+☁️ Cloud Security
+⚙️ DevSecOps
+🌐 Redes
+🖥️ Infraestrutura
+🤖 Automação
+📊 Monitoramento
+🏗️ Infrastructure as Code
+```
+
+### Roadmap
+
+```text
+Agora
+ ├── Azure
+ ├── AZ-900
+ ├── Redes
+ ├── Segurança
+ └── DevOps
+
+        ↓
+
+Próxima etapa
+ ├── AZ-104
+ ├── SC-900
+ ├── Terraform
+ ├── CI/CD
+ └── Cloud Security
+
+        ↓
+
+Objetivo
+ └── Cloud Security + DevSecOps
+```
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Pedrinho2018&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinho2018&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Pedrinho2018&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrinho2018&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedrinho2018&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Pedrinho2018&theme=github-compact&hide_border=true" />
+
+</div>
+
+---
+
+## 📫 Contato
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva-b0ba731b7/">
+  <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.nortemtsistemas.com.br/">
+  <img src="https://img.shields.io/badge/NorteMT%20Sistemas-0078D4?style=for-the-badge&logo=microsoftedge&logoColor=white" />
+</a>
+<a href="https://github.com/Pedrinho2018">
+  <img src="https://img.shields.io/badge/GitHub-Pedrinho2018-181717?style=for-the-badge&logo=github" />
+</a>
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Construindo infraestrutura, segurança e sistemas que resolvem problemas reais.</sub>
+
+### 🛡️ Infraestrutura, segurança e automação para resolver problemas reais.
+
+**Build. Monitor. Automate. Secure.**
+
 </div>
