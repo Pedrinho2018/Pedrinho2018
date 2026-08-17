@@ -287,17 +287,39 @@ DevSecOps      → Segurança integrada à infraestrutura e automação
 
 ---
 
-## 🎓 Certificações e formações
+## 🎓 Certificações em destaque
 
-- 🛡️ **Gestão de Ameaças Cibernéticas** — Cisco Networking Academy
-- 🔐 **Introdução à Cibersegurança** — Cisco Networking Academy
-- 🌐 **Fundamentos de Redes** — Cisco
-- 🔥 **NSE 1 Network Security Associate** — Fortinet
-- ☁️ Estudos em Microsoft Azure
-- 🐳 Docker
-- 🐍 Python
-- 📊 Zabbix e Grafana
-- 🔧 Git e GitHub
+Credenciais selecionadas por relevância para **cibersegurança, redes, automação, cloud, DevOps e observabilidade**.
+
+### 🛡️ Segurança, redes e automação
+
+| Certificação | Instituição | Emissão | Credencial |
+|---|---|---:|---|
+| **Cyber Threat Management** | Cisco | Ago/2026 | [Ver credencial](https://www.credly.com/badges/601b4382-e9ac-4034-9e55-f6720bae6cb6/linked_in_profile) |
+| **Endpoint Security** | Cisco | Ago/2026 | [Ver credencial](https://www.credly.com/badges/f6a29f37-1804-470d-be2f-bbbd40bc9d64/linked_in_profile) |
+| **DevNet Associate** | Cisco | Ago/2026 | [Ver credencial](https://www.credly.com/badges/682b32ce-bc99-4c1a-99cb-4e54891c2d6f/linked_in_profile) |
+| **Networking Basics** | Cisco | Jun/2025 | [Ver credencial](https://www.credly.com/badges/f8a9e910-c655-4705-88df-bd3416b5123e/linked_in_profile) |
+
+### ☁️ Cloud, DevOps e observabilidade
+
+| Certificação | Instituição | Emissão | Credencial |
+|---|---|---:|---|
+| **Infraestrutura como Código com Terraform** | Rocketseat | Mai/2026 | [Ver credencial](https://app.rocketseat.com.br/certificates/7177b7c0-e1d9-42ae-9528-94a17a4d9eac) |
+| **Containers com Docker e Docker Compose** | Rocketseat | Mai/2026 | [Ver credencial](https://app.rocketseat.com.br/certificates/f89ab0dd-4ea1-44fb-ac08-9d8ea16d06bf) |
+| **Fundamentos da Cultura DevOps** | Rocketseat | Mai/2026 | [Ver credencial](https://app.rocketseat.com.br/certificates/36b3eb7b-243e-439c-925b-babf34a9f5bd) |
+| **Monitoramento com Zabbix e Grafana** | Udemy | Ago/2025 | [Ver credencial](https://ude.my/UC-eca13b29-ba49-41cd-8305-70bb9d767628) |
+
+<details>
+<summary><strong>Outras formações relevantes</strong></summary>
+<br />
+
+- **Introduction to Cybersecurity** — Cisco Networking Academy · 2025
+- **Fundamentos de Python** — Rocketseat · 2025
+- **Machine Learning** — AWS · 2025
+- **Introdução à GenAI** — AWS · 2025
+- **Docker Fundamental** — Udemy · 2025
+
+</details>
 
 ---
 
