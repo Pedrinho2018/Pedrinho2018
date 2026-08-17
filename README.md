@@ -26,6 +26,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Pedrinho2018/Pedrinho2018/main/profile-3d-contrib/profile-night-rainbow.svg" alt="Gráfico 3D de contribuições" />
+</div>
+
+---
+
 ## 🚀 Sobre mim
 
 Sou profissional de **Tecnologia da Informação**, atuando principalmente com **infraestrutura corporativa, redes, servidores Windows, Active Directory, segurança, monitoramento e automação**.
