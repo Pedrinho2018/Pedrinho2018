@@ -8,7 +8,7 @@
 
 <br />
 
-<a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva-b0ba731b7/">
+<a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva/">
   <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://github.com/Pedrinho2018">
@@ -394,7 +394,7 @@ Objetivo
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva-b0ba731b7/">
+<a href="https://www.linkedin.com/in/pedro-henrique-freitas-silva/">
   <img src="https://img.shields.io/badge/LinkedIn-Pedro%20Henrique-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://www.nortemtsistemas.com.br/">
